@@ -4317,7 +4317,7 @@ h6 {
 
 .s_product_img .carousel .carousel-indicators li:before {
   content: "";
-  background: rgba(197, 50, 45, 0.8);
+  background: #00b3f1;
   position: absolute;
   left: 0px;
   top: 0px;
